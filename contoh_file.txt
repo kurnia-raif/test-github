@@ -1,1 +1,4 @@
 Ini file untuk contoh commit
+
+# Rekan Developer kita menambahkan dan mengupdate code atau bahkan menghapusnya, lalu dia push ke github.
+Sehingga kita Pull untuk mendapatkan update (file, code dan sejenisnya) itu ke local kita
